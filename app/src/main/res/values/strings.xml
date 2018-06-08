@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prueba</string>
+
+    <string name="texto">Pucha un boton</string>
+
+    <string name="mensaje1">Bocadillo del Boton Uno</string>
+    <string name="mensaje2">Bocadillo del Boton Dos</string>
+
+</resources>
